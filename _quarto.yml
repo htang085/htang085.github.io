@@ -1,5 +1,8 @@
 project:
   title: "htang085.github.io"
 
+project:
+  render:
+    - "htang085.github.io.qmd"
 
 
