@@ -5,3 +5,14 @@ title: "htang085.github.io"
 ## Quarto
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+# About Me
+
+Hello! I’m Hui Tang, and I’m a data scientist with a passion for turning complex datasets into actionable insights. I currently study at UBC
+
+
+## My Skills
+
+- Data Analysis
+- Machine Learning
+- Data Visualization using Python and R
+
